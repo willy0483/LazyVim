@@ -50,6 +50,7 @@ Stage specific files or all changes:
 
 ```powershell
 git add <file-name>
+
 # OR
 
 git add .
